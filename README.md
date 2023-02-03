@@ -1,4 +1,4 @@
-<h1>Hi, I am Maksat Mametjumayev! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I am Maksat Mametjumayev! <br/><a href="https://github.com/Maksat18/maksat18">Data Analyst</a>, Business Analyst<a href="https://www.linkedin.com/in/maksat-mametjumayev/">
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
