@@ -1,4 +1,4 @@
-<h1>Hi, I am Maksat Mametjumayev! <br/><a href="https://github.com/Maksat18/maksat18">Data Analyst</a>, Business Analyst<a href="https://www.linkedin.com/in/maksat-mametjumayev/">
+<h1>Hi, I am Maksat Mametjumayev! <br/><a href="https://github.com/Maksat18/maksat18">Data Analyst</a>, Business Analyst<a href="https://linkedin.com/in/maksat-mametjumayev/">
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
