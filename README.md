@@ -1,9 +1,9 @@
 <h1>Hi, I am Maksat Mametjumayev! <br/><a href="https://github.com/Maksat18/maksat18">Data Analyst</a>, <a <a href="https://www.linkedin.com/in/maksat-mametjumayev/">Business Analyst Student</a></h1>
 
-<h2>👨‍💻 Data Engineering and Database Management Projects:</h2>
+<h2>👨‍💻 Data Engineering and Database Management Course Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>SQL Projects</b>
+  - [Data Engineering Course Mid-term Project: Write Up 1&2](https://github.com/Maksat18/corruption)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
