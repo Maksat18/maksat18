@@ -1,7 +1,6 @@
 <h1>Hi, I am Maksat Mametjumayev! <br/><a href="https://github.com/Maksat18/maksat18">Data Analyst</a>, <a <a href="https://www.linkedin.com/in/maksat-mametjumayev/">Business Analyst Student</a></h1>
-">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Data Engineering and Database Management Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
