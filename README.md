@@ -3,7 +3,8 @@
 <h2>👨‍💻 Data Engineering and Database Management Course Projects:</h2>
 
 - <b>SQL Projects</b>
-  - [Data Engineering Course Mid-term Project: Write Up 1&2](https://github.com/Maksat18/corruption)
+  - [Data Engineering Course Mid-term Project:Write Up 1&2](https://github.com/Maksat18/corruption)
+  - [Data Engineering Course Final Project: Data Portfolio](https://github.com/Maksat18/hunger)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
