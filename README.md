@@ -12,14 +12,9 @@
 
 - <b>Python Projects</b>
   - [Problem Sets and Solutions with Python](https://github.com/Maksat18/python-problem-sets)
-  - [Data Engineering Course Final Project: Data Portfolio](https://github.com/Maksat18/hunger)
+  - [Favorite In-Class Exercise: gui](https://github.com/Maksat18/gui-exercises)
   - [Database Management and SQL Course: Final Project-Database Querying](https://github.com/Maksat18/human_resources)
-  - [Database Management and SQL Course: Final Project- Building Database of My Future Company](https://github.com/Maksat18/Maksatly)
-  
-
-- <b>Python Projects</b>
-    -[Problem Sets and Solutions with Python](https://github.com/Maksat18/python-problem-sets)
-    -[Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application of Final Project (Datastructures and Algorithms with Django)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular YouTube Videos</h2>
 
