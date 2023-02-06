@@ -11,7 +11,7 @@
 <h2>👨‍💻 Programming I and II- Data Structures with Python- Course Projects:</h2>
 
 - <b>Python Projects</b>
-  -[Problem Sets and Solutions with Python](https://github.com/Maksat18/python-problem-sets)
+- [Problem Sets and Solutions with Python](https://github.com/Maksat18/python-problem-sets)
   
   
   
