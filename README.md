@@ -8,7 +8,7 @@
   - [Database Management and SQL Course: Final Project-Database Querying](https://github.com/Maksat18/human_resources)
   - [Database Management and SQL Course: Final Project- Building Database of My Future Company](https://github.com/Maksat18/Maksatly)
   
- <h3>👨‍💻 Programming I and II- Data Structures with Python- Course Projects:</h3>
+<h3>👨‍💻 Programming I and II- Data Structures with Python- Course Projects:</h3>
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
