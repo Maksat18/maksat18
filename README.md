@@ -6,6 +6,7 @@
   - [Data Engineering Course Mid-term Project:Write Up 1&2](https://github.com/Maksat18/corruption)
   - [Data Engineering Course Final Project: Data Portfolio](https://github.com/Maksat18/hunger)
   - [Database Management and SQL Course: Final Project-Database Querying](https://github.com/Maksat18/human_resources)
+  - [Database Management and SQL Course: Final Project- Building Database of My Future Company](https://github.com/Maksat18/Maksatly)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
