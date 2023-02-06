@@ -9,6 +9,7 @@
   - [Database Management and SQL Course: Final Project- Building Database of My Future Company](https://github.com/Maksat18/Maksatly)
   
 <h2>👨‍💻 Programming I and II- Data Structures with Python- Course Projects:</h2>
+
 - <b>SQL Projects</b>
   - [Data Engineering Course Mid-term Project:Write Up 1&2](https://github.com/Maksat18/corruption)
   - [Data Engineering Course Final Project: Data Portfolio](https://github.com/Maksat18/hunger)
