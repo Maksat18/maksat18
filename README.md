@@ -18,6 +18,7 @@
 
 <h2>📉📈 Business Case Analysis</h2>
 
+- [Business Plan and Deal Synopsis from Principle of Entrepreneurship course](https://github.com/Maksat18/entrepreneurship)
 - [Case Analysis from Principle of Marketing Course](https://github.com/Maksat18/marketing-report)
 - [Team and Individual Business Case Projects from Socially Responsible Business Course](https://github.com/Maksat18/Socially-Responsible-Business-)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
