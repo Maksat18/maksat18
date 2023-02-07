@@ -16,11 +16,9 @@
   - [Favorite In-Class Exercise: gui](https://github.com/Maksat18/gui-exercises)
   - [Package Delivery Application of Final Project (Datastructures and Algorithms with Django)](https://github.com/Maksat18/python-final-project)
 
-<h2>📉📈 Business Case Analysis</h2>
+<h2>📉📈 School Business Case Analysis Projects:</h2>
 
+- [Business Cases Analysis Projectd from Data Analytics and Advanced Excel Courses](https://github.com/Maksat18/Business-Cases)
 - [Business Plan and Deal Synopsis from Principle of Entrepreneurship Course](https://github.com/Maksat18/entrepreneurship)
 - [Case Analysis from Principle of Marketing Course](https://github.com/Maksat18/marketing-report)
 - [Team and Individual Business Case Projects from Socially Responsible Business Course](https://github.com/Maksat18/Socially-Responsible-Business-)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
