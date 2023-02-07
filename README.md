@@ -1,4 +1,4 @@
-<h1>Hi, I am Maksat Mametjumayev! <br/><a href="https://github.com/Maksat18/maksat18">Data Analyst</a>, <a <a href="https://www.linkedin.com/in/maksat-mametjumayev/">Business Analyst Student</a></h1>
+<h1>Hi, I am Maksat Mametjumayev!  <a <a href="https://www.linkedin.com/in/maksat-mametjumayev/">Business Analyst Student</a></h1>
 
 <h2>👨‍💻 Data Engineering and Database Management Course Projects:</h2>
 
@@ -18,7 +18,7 @@
 <h2>📉📈 Business Case Analysis</h2>
 
 - [Case Analysis from Principle of Marketing Course](https://github.com/Maksat18/marketing-report)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Team and Individual Business Case Projects from Socially Responsible Business Course](https://github.com/Maksat18/Socially-Responsible-Business-)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
