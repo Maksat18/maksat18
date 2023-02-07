@@ -1,4 +1,5 @@
-<h1>Hi, I am Maksat Mametjumayev!  <a <a href="https://www.linkedin.com/in/maksat-mametjumayev/">Business Analyst Student</a></h1>
+<h1>Hi, I am Maksat Mametjumayev!
+  <a href="https://www.linkedin.com/in/maksat-mametjumayev/">Business Analyst Student</a></h1>
 
 <h2>👨‍💻 Data Engineering and Database Management Course Projects:</h2>
 
