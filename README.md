@@ -15,7 +15,7 @@
   - [Favorite In-Class Exercise: gui](https://github.com/Maksat18/gui-exercises)
   - [Package Delivery Application of Final Project (Datastructures and Algorithms with Django)](https://github.com/Maksat18/python-final-project)
 
-<h2>📉📈 Business Case Analysis/h2>
+<h2>📉📈 Business Case Analysis</h2>
 
 - [Case Analysis from Principle of Marketing Course](https://github.com/Maksat18/marketing-report)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
