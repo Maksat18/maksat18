@@ -4,7 +4,7 @@
 <h2>👨‍💻 Data Engineering and Database Management Course Projects:</h2>
 
 - <b>SQL Projects</b>
-  - [Data Engineering Course Mid-term Project:Write Up 1&2](https://github.com/Maksat18/corruption)
+  - [Data Engineering Course Mid-Term Project:Write Up 1&2](https://github.com/Maksat18/corruption)
   - [Data Engineering Course Final Project: Data Portfolio](https://github.com/Maksat18/hunger)
   - [Database Management and SQL Course: Final Project-Database Querying](https://github.com/Maksat18/human_resources)
   - [Database Management and SQL Course: Final Project- Building Database of My Future Company](https://github.com/Maksat18/Maksatly)
@@ -18,7 +18,7 @@
 
 <h2>📉📈 School Business Case Analysis Projects:</h2>
 
-- [Business Cases Analysis Projectd from Data Analytics and Advanced Excel Courses](https://github.com/Maksat18/Business-Cases)
+- [Business Cases Analysis Projects from Data Analytics and Advanced Excel Courses](https://github.com/Maksat18/Business-Cases)
 - [Business Plan and Deal Synopsis from Principle of Entrepreneurship Course](https://github.com/Maksat18/entrepreneurship)
 - [Case Analysis from Principle of Marketing Course](https://github.com/Maksat18/marketing-report)
 - [Team and Individual Business Case Projects from Socially Responsible Business Course](https://github.com/Maksat18/Socially-Responsible-Business-)
