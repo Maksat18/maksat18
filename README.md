@@ -21,10 +21,11 @@
 <h2>📊👨‍💻 Data Visualization: Tableau</h2>
 
 - <b>Tableau Projects</b>
-  - [Data Engineering Course Mid-Term Project:Write Up 1&2](https://github.com/Maksat18/corruption)
-  - [Data Engineering Course Final Project: Data Portfolio](https://github.com/Maksat18/hunger)
-  - [Database Management and SQL Course: Final Project-Database Querying](https://github.com/Maksat18/human_resources)
-  - [Database Management and SQL Course: Final Project- Building Database of My Future Company](https://github.com/Maksat18/Maksatly)
+  - [Median Score of Five Averaged Data Pillars by Region in 2019](https://github.com/Maksat18/Data-Viz-1)
+  - [Population Growth from 2004 until 2019](https://github.com/Maksat18/hunger)
+  - [Tracking Sustainable Development Goal Accomplishments by Visual Analysis of SDG1-8 Score in 2019](https://github.com/Maksat18/Data-Viz-3)
+  - [Census and Survey Data by Region: A Treemap Analysis](https://github.com/Maksat18/Data-Viz-4)
+  - [Regional Income Level in 2019: Mapping](https://github.com/Maksat18/Data-Viz-5)
   
 <h2>💰💼 School Business Case Analysis Projects:</h2>
 
