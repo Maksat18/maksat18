@@ -1,5 +1,5 @@
-<h1> Welcome to my page! Добро пожаловать на страницу моего проекта! 
-Taslama sahypama hoş geldiňiz! I am Maksat Mametjumayev!
+<h1> Welcome to my page! Добро пожаловать на страницу моего проекта! Taslama sahypama hoş geldiňiz! 
+ I'm Maksat Mametjumayev and this is my GitHub profile, where you can explore my personal projects and contributions to the open source community!
   <a href="https://www.linkedin.com/in/maksat-mametjumayev/">Business Analyst Student</a></h1>
 
 <h2>👨‍💻 Data Engineering and Database Management Course Projects:</h2>
