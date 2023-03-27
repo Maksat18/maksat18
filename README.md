@@ -15,7 +15,15 @@
   - [Problem Sets and Solutions with Python](https://github.com/Maksat18/python-problem-sets)
   - [Favorite In-Class Exercise: gui](https://github.com/Maksat18/gui-exercises)
   - [Package Delivery Application of Final Project (Datastructures and Algorithms with Django)](https://github.com/Maksat18/python-final-project)
+  
+<h2>👨‍💻 Data Engineering and Database Management Course Projects:</h2>
 
+- <b>SQL Projects</b>
+  - [Data Engineering Course Mid-Term Project:Write Up 1&2](https://github.com/Maksat18/corruption)
+  - [Data Engineering Course Final Project: Data Portfolio](https://github.com/Maksat18/hunger)
+  - [Database Management and SQL Course: Final Project-Database Querying](https://github.com/Maksat18/human_resources)
+  - [Database Management and SQL Course: Final Project- Building Database of My Future Company](https://github.com/Maksat18/Maksatly)
+  
 <h2>📉📈 School Business Case Analysis Projects:</h2>
 
 - [Business Cases Analysis Projects from Data Analytics and Advanced Excel Courses](https://github.com/Maksat18/Business-Cases)
